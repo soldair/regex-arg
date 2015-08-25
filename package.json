@@ -1,6 +1,6 @@
 {
   "name": "regex-arg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "quick and dirty parse regex literal to regexp object from user input",
   "main": "index.js",
   "bin": {},
